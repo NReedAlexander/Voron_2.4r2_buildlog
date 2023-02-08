@@ -4,8 +4,8 @@
 
 
 - [Voron 2.4r2 300 Build Log](#voron-2.4r2-300-build-log)
- - [Build](#build)
-  - [BOM](#bom)
+  - [Build](#build)
+    - [BOM](#bom)
  
 
 ## Build 
@@ -20,8 +20,15 @@ To reduce wiring, I plan on using a CANbus system, sensorless x and y homing, an
 
 ### BOM
 
-| Part                                             | Source                                 |
-| -------------------------------------------------|----------------------------------------|
+| Part                                             | Source                                       |
+| -------------------------------------------------|----------------------------------------------|
 | **Fasteners**                                    |
-| LDO Voron V2.4 Premium Hardware Kit              | [PrintedSolid](https://www.printedsolid.com/products/ldo-voron-v2-4-premium-hardware-kit) |
-| 
+| LDO Voron V2.4 Premium Hardware Kit              | [PrintedSolid](https://www.printedsolid.com) |
+|                                                  |                                              |
+| **Motion**                                       |                                              
+| LDO Voron 2.4 Motor Kit                          | [PrintedSolid](https://www.printedsolid.com) |
+| LDO Nema14 Pancake Stepper Motor                 | [DFH](https://www.dfh.fm)                    |
+| POWGE & GATES 2GT (belts / pulleys / idlers)     | AliExpress                                   |
+| HoneyBadger MGN9H Stainless Steel Rails x6       | [Fabreeko](https://www.fabreeko.com)         |
+| HoneyBadger MGN12H Stainless Steel Rail          | [Fabreeko](https://www.fabreeko.com)         |
+
