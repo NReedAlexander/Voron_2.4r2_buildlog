@@ -17,6 +17,8 @@ To reduce wiring, I plan on using a CANbus system, sensorless x and y homing, an
 
 <img src = "https://github.com/NReedAlexander/Voron_2.4r2_buildlog/blob/main/images/parrot_frame.jpeg" width = "400" height = "300" />
 
+insert text here
+
 ### BOM
 
 | Part                                             | Source                                       |
