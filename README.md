@@ -15,7 +15,7 @@ Voron 2.4 r2 was released in early 2022 and at the time I had only acquired the 
 
 To reduce wiring, I plan on using a CANbus system, sensorless x and y homing, and klicky PCB probe.
 
-[parrot](/images/parrot_frame.jpeg)
+<img src = "https://github.com/NReedAlexander/Voron_2.4r2_buildlog/blob/main/images/parrot_frame.jpeg" width = "400" height = "300" />
 
 ### BOM
 
