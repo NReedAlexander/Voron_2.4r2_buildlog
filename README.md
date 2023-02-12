@@ -2,10 +2,10 @@
 # Voron 2.4r2 300 Build Log
 
 - [Voron 2.4r2 300 Build Log](#voron-2.4r2-300-build-log)
-  - [Build](#build)
-    - [BOM](#bom)
+  - [Build Notes](#build)
+    - [BOM: Bill of Materials](#bom)
  
-## Build 
+## Build Notes
 
 I am building a self-sourced Voron 2.4r2 300mm.
 
@@ -15,17 +15,18 @@ Voron 2.4 r2 was released in early 2022 and at the time I had only acquired the 
 
 To reduce wiring, I plan on using a CANbus system, sensorless x and y homing, and klicky PCB probe.
 
-<img src = "https://github.com/NReedAlexander/Voron_2.4r2_buildlog/blob/main/images/parrot_frame.jpeg" width = "400" height = "300" />
+<img src = "/Users/dmwalker/Voron_2.4r2_buildlog/images/parrot_frame.jpeg" width = "400" height = "300" />
 
 
-### BOM
+### BOM - Bill of Materials
 
 | Part                                             | Source                                       |
 | -------------------------------------------------|----------------------------------------------|
-| **Fasteners**                                    |
+|                                                  |                                              |
+| **Fasteners**                                    |                                              |
 | LDO Voron V2.4 Premium Hardware Kit              | [PrintedSolid](https://www.printedsolid.com) |
 |                                                  |                                              |
-| **Motion**                                       |                                              
+| **Motion**                                       |                                              |
 | LDO Voron 2.4 Motor Kit                          | [PrintedSolid](https://www.printedsolid.com) |
 | LDO Nema14 Pancake Stepper Motor                 | [DFH](https://www.dfh.fm)                    |
 | POWGE & GATES 2GT (belts / pulleys / idlers)     | AliExpress                                   |
